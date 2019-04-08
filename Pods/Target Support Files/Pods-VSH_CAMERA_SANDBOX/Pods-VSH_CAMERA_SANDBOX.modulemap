@@ -1,0 +1,6 @@
+framework module Pods_VSH_CAMERA_SANDBOX {
+  umbrella header "Pods-VSH_CAMERA_SANDBOX-umbrella.h"
+
+  export *
+  module * { export * }
+}
